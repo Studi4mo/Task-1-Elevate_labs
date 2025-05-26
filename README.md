@@ -2,7 +2,8 @@
 Discover open ports on devices in your Local network to understand network exposure
 
 # CYBER SECURITY INTERNSHIP - TASK 1  
-**Network Port Scanning with Nmap**  
+** Basic network reconnaissance skills; understanding network service
+ exposure**  
 
 ---
 
