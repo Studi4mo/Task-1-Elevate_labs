@@ -11,8 +11,8 @@ Discover open ports on devices in the local network to assess network exposure a
 
 ---
 ## Prerequisites
-1.Stable Network Connection
-2.kali system (I am using Orcale VM Virtual Box)
+- 1.Stable Network Connection
+- 2.kali system (I am using Orcale VM Virtual Box)
 
 ## 🛠️ Tools Used  
 - **Nmap** (`-sS` SYN Scan, Version Detection)   
@@ -22,7 +22,7 @@ Discover open ports on devices in the local network to assess network exposure a
 
 ## 📝 Steps 
 1. **Determined Local IP Range**  
-   - Command: `ip addr` (Linux) /  
+   - Command: `ip addr` (Linux) 
    - Identified subnet: `10.0.2.15/24`.  
 
 2. **Performed TCP SYN Scan**  
