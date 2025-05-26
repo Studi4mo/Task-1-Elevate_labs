@@ -27,4 +27,4 @@ Discover open ports on devices in the local network to assess network exposure a
 
 2. **Performed TCP SYN Scan**  
    ```bash
-   nmap -sS -sV -T4 -oN results/TCP_scan.txt -oX results/TCP_scan.xml 10.0.2.0/24
+   nmap -sS -sV -T4 -oN TCP_scan.txt -oX TCP_scan.xml 10.0.2.0/24
