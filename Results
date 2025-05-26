@@ -11,4 +11,3 @@
   - Disable SMB if unused. Restrict SMB access to trusted IPs via firewall. 
   - Update MySQL to the latest version. Use strong passwords and enable two-factor authentication.
 
-[View Scan Results](."C:\Users\SURYA\Downloads\TCP_scan (1).txt")
